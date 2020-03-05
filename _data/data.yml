@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Choi Young Chang
     tagline: Master Student of CAD & SoC Design
-    avatar: C:\Users\CSDL\Desktop\CYC\document\ID_picture.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ID_picture.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cyc3110@postech.ac.kr
