@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Choi Young Chang
     tagline: Master Student of CAD & SoC Design
-    avatar: C:\Users\CSDL\Desktop\CYC\document\ID_picture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: C:\Users\CSDL\Desktop\CYC\document\ID_picture.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cyc3110@postech.ac.kr
     phone: 010 5365 3141
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: #do not add http://
+    linkedin: 
     github: ChoiYoungChang
     gitlab:
     bitbucket:
