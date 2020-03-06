@@ -43,7 +43,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Younnchang Choi is currently a Master student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
+    summary: Younnchang Choi is currently a Master student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab. https://chioyoungchang.github.io/online-cv/
       
 education:
     - degree: M.Sc
@@ -88,6 +88,5 @@ skills:
 
       - name: Matlab
         level: 70%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
