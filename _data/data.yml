@@ -69,9 +69,9 @@ education:
 #        link: 
 #        tagline: 
 publications:
- #   title: 
+     title: Publications 
  #   intro: 
-    papers:
+#    papers:
       - title: Low Power Current-Steering DAC with Ternary Data Conversion 
         link: 
         authors: Y. Choi, S. Kim, S. Baek and S. Kang
@@ -92,7 +92,7 @@ skills:
 
     toolset:
       - name: Cadence Virtuoso
-      - level: 85%
+        level: 85%
 
       - name: C language
         level: 85%
