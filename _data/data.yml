@@ -70,8 +70,8 @@ education:
 #        tagline: 
 publications:
      title: Publications 
- #   intro: 
-#    papers:
+     intro: 
+     papers:
       - title: Low Power Current-Steering DAC with Ternary Data Conversion 
         link: 
         authors: Y. Choi, S. Kim, S. Baek and S. Kang
