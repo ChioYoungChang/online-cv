@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: Ture # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Choi Young Chang
@@ -29,16 +29,16 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Advanced
 
     interests:
       - item: Circuit Design
         link:
 
-      - item: Body Building & Power Lifting
+      - item: 
         link:
 
-      - item: Playing an instrument
+      - item: 
         link:
 
 career-profile:
@@ -68,22 +68,35 @@ projects:
         tagline: 
 
 publications:
-    title:
+    title: 
     intro: 
     papers:
-      - title: 
+      - title: Low Power Current-Steering DAC with Ternary Data Conversion 
         link: 
-        authors: 
-        conference: 
+        authors: Y. Choi, S. Kim, S. Baek and S. Kang
+        conference: International SoC Design Conference (ISOCC), 2020
+        
+      - title: MTCMOS-based Ternary to Binary Converter 
+        link: 
+        authors: S. Baek, S. Kim, Y. Choi and S. Kang
+        conference: International SoC Design Conference (ISOCC), 2020
+
+      - title: MDARTS:Multi-objective Differentiable Neural Architecture Search 
+        link: 
+        authors: S. Kim, H. Kwon,  E. Kwon, Y. Choi, T. Oh and S. Kang
+        conference: Design Automation and Test in Europe (DATE), 2021
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Cadence Virtuoso
+      - level: 85%
+
       - name: C language
         level: 85%
         
-      - name: Xilinx-Vivado
+      - name: Verilog
         level: 80%
 
       - name: Matlab
